@@ -1,6 +1,6 @@
 # calendar
 
-万年历效果，带农历和节气的。
+万年历效果，带农历和节气的。 从1900年到2100年
 
 预览地址：<a href="https://lansechahu.github.io/calendar/index.html">https://lansechahu.github.io/calendar/index.html</a>
 
